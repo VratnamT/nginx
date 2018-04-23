@@ -46,4 +46,7 @@
 <body class="bg-black">
     <p class="hello-world">&lt;<span>hello</span><span>-world</span> /&gt;</p>
 </body>
+<?php
+echo "<p>".date("F j, Y, g:i a")."</p>";
+ ?>
 </html>
